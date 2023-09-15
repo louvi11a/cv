@@ -187,6 +187,10 @@ line-height: 44px;
 	overflow: hidden;
 }
 
+/* Define the smaller-font class */
+.smaller-font {
+    font-size: smaller;
+
 #firstCover:hover #fisrtDetail{
 	height: 90px;
 }
