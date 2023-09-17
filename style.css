@@ -220,7 +220,7 @@ h3 {
   animation: circle 1.2s infinite;
 }
 .resume .func .work ul li:hover span, .resume .func .edu ul li:hover span {
-  color: #40916c;
+  color: #0d41e1;
 }
 @keyframes circle {
   from {
